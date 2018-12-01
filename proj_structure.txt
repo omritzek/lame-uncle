@@ -1,5 +1,4 @@
 /lame_uncle/ = root
-/lame_uncle/env/
 /lame_uncle/backend/
 /lame_uncle/backend/manage.py
 /lame_uncle/backend/lame_app/
